@@ -1,5 +1,5 @@
 # Moving Wavy Gradient Background
-
+![Capture](https://user-images.githubusercontent.com/75189508/204061955-51131c5a-e863-41e0-b525-c75cc57b33b5.PNG)
 
 # License
 MIT License
