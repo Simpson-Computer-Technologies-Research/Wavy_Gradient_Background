@@ -1,3 +1,7 @@
+# Moving Wavy Gradient Background
+
+
+# License
 MIT License
 
 Copyright (c) 2022 Tristan Simpson
